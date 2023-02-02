@@ -1,0 +1,8 @@
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\bin\Debug\CadastrodeClientesDeumBanco.exe.config
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\bin\Debug\CadastrodeClientesDeumBanco.exe
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\bin\Debug\CadastrodeClientesDeumBanco.pdb
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\obj\Debug\CadastrodeClientesDeumBanco.csproj.AssemblyReference.cache
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\obj\Debug\CadastrodeClientesDeumBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\obj\Debug\CadastrodeClientesDeumBanco.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\obj\Debug\CadastrodeClientesDeumBanco.exe
+C:\Users\edilson.csbispo\source\repos\CadastrodeClientesDeumBanco\obj\Debug\CadastrodeClientesDeumBanco.pdb
